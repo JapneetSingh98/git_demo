@@ -1,2 +1,5 @@
 This is the first line of file3
 This is the second line of file3
+
+Adding line 3 to file3
+Adding line 4 to file3
