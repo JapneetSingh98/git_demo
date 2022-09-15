@@ -6,3 +6,4 @@ This is the second line of file1
 
 Adding line 6
 Adding line 7
+Adding line 8
