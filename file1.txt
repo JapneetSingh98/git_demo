@@ -1,2 +1,7 @@
 This is the first line of file1
 This is the second line of file1
+
+
+
+
+Adding line 6
